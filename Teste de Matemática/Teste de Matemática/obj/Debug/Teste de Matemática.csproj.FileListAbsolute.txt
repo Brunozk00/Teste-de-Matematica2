@@ -1,0 +1,10 @@
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\bin\Debug\Teste de Matemática.exe.config
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\bin\Debug\Teste de Matemática.exe
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\bin\Debug\Teste de Matemática.pdb
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\obj\Debug\Teste de Matemática.csproj.AssemblyReference.cache
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\obj\Debug\Teste_de_Matemática.Form1.resources
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\obj\Debug\Teste_de_Matemática.Properties.Resources.resources
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\obj\Debug\Teste de Matemática.csproj.GenerateResource.cache
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\obj\Debug\Teste de Matemática.csproj.CoreCompileInputs.cache
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\obj\Debug\Teste de Matemática.exe
+D:\Visual\Visualcode\VamosCodar!\Teste de Matemática\Teste de Matemática\obj\Debug\Teste de Matemática.pdb
